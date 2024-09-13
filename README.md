@@ -1,6 +1,5 @@
-# Shelton Ngomakapile's Portfolio
 
-Welcome to the repository for Shelton Ngomakapile's portfolio website. This site showcases my skills, projects, and personal information as I pursue a career in web development and data analytics.
+Welcome to the repository for my portfolio website titled "Shelton Ngomakapile's Portfolio". This site showcases my skills, projects, and personal information as I pursue a career in web development and data analytics.
 
 ## Project Overview
 

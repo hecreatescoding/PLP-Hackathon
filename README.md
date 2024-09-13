@@ -15,5 +15,3 @@ This portfolio website highlights my journey in the tech industry, featuring:
 
 - **HTML**: Markup language for structuring the website.
 - **CSS**: Stylesheet language for designing the website's look and layout.
-
-## Setup Instructions
